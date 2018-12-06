@@ -2,4 +2,4 @@
 Modular OS based around the Xen hypervisor
 
 # Links
-1 [http://xenbits.xen.org/git-http/mini-os.git Mini-OS-DevNotes]
+1 [https://wiki.xenproject.org/wiki/Mini-OS-DevNotes Mini-OS-DevNotes]
